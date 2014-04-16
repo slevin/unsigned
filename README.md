@@ -1,7 +1,5 @@
 #Exploration of the Unsigned Integer
-The unsigned integer types in C are an implementation detail masquerading as abstraction. After
-some notion of taking an unsigned number
-then multipling by -1 then assigning to a double (NSTimeInterval)
+The unsigned integer types in C are an implementation detail masquerading as abstraction.
 
 #Languages
 * obj c
